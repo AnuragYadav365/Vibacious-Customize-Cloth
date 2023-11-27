@@ -28,7 +28,7 @@ const Home = () => {
           <motion.div className="home-content" {...headContainerAnimation}>
             <motion.div {...headTextAnimation}>
               <h1 className="head-text">
-                CUSTOMIZE<br className="xl:block hidden" /> IT.
+                DO IT<br className="xl:block hidden" /> VIBACIOUS.
               </h1>
             </motion.div>
             <motion.div
