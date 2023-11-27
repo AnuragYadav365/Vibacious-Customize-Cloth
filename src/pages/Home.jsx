@@ -19,7 +19,7 @@ const Home = () => {
         <motion.section className="home" {...slideAnimation('left')}>
           <motion.header {...slideAnimation("down")}>
             <img 
-              src='./vibacious.png'
+              src='./VIBACIOUS.png'
               alt="logo"
               className="w-8 h-8 object-contain"
             />
@@ -28,7 +28,7 @@ const Home = () => {
           <motion.div className="home-content" {...headContainerAnimation}>
             <motion.div {...headTextAnimation}>
               <h1 className="head-text">
-                LET'S <br className="xl:block hidden" /> CUSTOMIZE IT.
+                CUSTOMIZE<br className="xl:block hidden" /> IT.
               </h1>
             </motion.div>
             <motion.div
